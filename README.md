@@ -24,6 +24,6 @@ Download from here = [**click me**](https://www.kaggle.com/datasets/ashishkumarj
 ## ℹ️ Details :
 
 1. Based on [**CRISP-ML**](https://ml-ops.org/content/crisp-ml) framework
-2. Use of **Descriptive statistics** while data preparation / processing
+2. Use of **Descriptive statistics** in exploratory data analysis
 3. Implementation of **Logistic Regression** on model building
 4. Evaluation metric used - **Accuracy**
